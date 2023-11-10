@@ -1,6 +1,6 @@
 # NLP_2023_NN
 
-- By Majid Sohrabi for HSE University, Nizhny Novgorod, Russia
+- By **Majid Sohrabi** for HSE University, Nizhny Novgorod, Russia
 
 - Program Link: [Applied Linguistics and Text Analytics](https://nnov.hse.ru/en/ma/appling/)
 
