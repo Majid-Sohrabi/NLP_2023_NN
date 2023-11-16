@@ -8,3 +8,4 @@
 
   1. [Python_Exercise](Week_1/Python_Exercise.ipynb)
   2. [Language_Processing](Week_2/Week02_language_processing_(NN).ipynb)
+  3. [Text_Corpora_Lexical_Resources](Week_3/Week_3_Corpora_Lexical_Resources.ipynb)
