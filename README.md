@@ -31,3 +31,7 @@ Week 5:
 Week 6:
 
   6. [Converting_Text_to_Features](Week_6/Week_6_Converting_Text_to_Features.ipynb)
+
+Week 7:
+
+  7. [Advanced_Natural_Language_Processing](Week_7/Week_7_Advanced_Natural_Language_Processing.ipynb)
